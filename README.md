@@ -1,10 +1,17 @@
 # newark-ej
 <b>Maggie Loesch</b>
-Fall 2023
-Intro to GIS For Public Informatics at Bloustein School of Planning and Public Policy - Rutgers University
-Prof. Wenwen Zhang
+</br>Fall 2023
+</br>Intro to GIS For Public Informatics at Bloustein School of Planning and Public Policy - Rutgers University
+</br>Prof. Wenwen Zhang
 
 Maps showing 2019 Median Household Income, Environmental Justice Stressors, Parks, and a 1/4 mi buffer around parks in Newark, NJ.
 
-The map below is interactive.
-<iframe src='newarkEJ.html' width = '500' height = '500'></iframe>
+<iframe src='MedianHHIncome_2019_WithParksAndBuffers.jpeg' width = '800' height = '900'></iframe>
+
+<iframe src='TotalEJstressors_2022_WithParksAndBuffers.jpeg' width = '800' height = '900'></iframe>
+
+
+<b>The map below is interactive.<b>
+<iframe src='newarkEJ.html' width = '1100' height = '900'></iframe>
+
+
