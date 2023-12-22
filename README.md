@@ -5,9 +5,8 @@ Prof. Wenwen Zhang
 
 Maps showing 2019 Median Household Income, Environmental Justice Stressors, Parks, and a 1/4 mi buffer around parks in Newark, NJ.
 
-<iframe src='MedianHHIncome_2019_WithParksAndBuffers.jpeg' width = '800' height = '900'></iframe>
-
-<iframe src='TotalEJstressors_2022_WithParksAndBuffers.jpeg' width = '800' height = '900'></iframe>
+<img src="MedianHHIncome_2019_WithParksAndBuffers.jpeg" alt="2019 Median HH Income Map">
+<img src="TotalEJstressors_2022_WithParksAndBuffers.jpeg" alt="2022 Total Env. Justice Stressors Map">
 
 
 <b>The map below is interactive.<b>
