@@ -10,7 +10,6 @@ Maps showing 2019 Median Household Income, Environmental Justice Stressors, Park
 
 
 <b>The map below is interactive.<b>
-<iframe src='newarkEJ.html' width = '1100' height = '900'></iframe>
+<iframe src='newarkEJ.html' width = '1100' height = '800'></iframe>
 
-theme: jekyll-theme-midnight
 
