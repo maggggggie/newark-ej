@@ -1,4 +1,3 @@
-@import ‘jekyll-theme-cayman’;
 # Maggie Loesch
 Fall 2023
 Intro to GIS For Public Informatics at Bloustein School of Planning and Public Policy - Rutgers University
